@@ -1,0 +1,22 @@
+Adresse;13.405;52.52;Regierungsgebäude;Straße des 17. Juni;1;10117;Berlin
+Adresse;13.065;52.396;Landtag;Mühlenstraße;2;14467;Potsdam
+Adresse;11.578;48.137;Staatskanzlei;Maximilianstraße;3;80539;München
+Adresse;9.177;48.783;Landtag;Schlossstraße;4;70174;Stuttgart
+Adresse;6.776;51.227;Landtag;Rheinpromenade;5;40221;Düsseldorf
+Adresse;9.738;52.375;Staatskanzlei;Ernst-Reuter-Platz;6;30159;Hannover
+Adresse;11.629;52.131;Staatskanzlei;Domplatz;7;39104;Magdeburg
+Adresse;8.241;50.078;Landtag;Friedrich-Ebert-Straße;8;65185;Wiesbaden
+Adresse;11.029;50.978;Staatskanzlei;Erfurtstraße;9;99084;Erfurt
+Adresse;13.738;51.051;Landtag;Theaterplatz;10;1067;Dresden
+Adresse;8.268;49.992;Landtag;Augustinerstraße;11;55116;Mainz
+Adresse;6.996;49.233;Staatskanzlei;Saaruferstraße;12;66117;Saarbrücken
+Adresse;8.805;53.079;Landtag;Rathausplatz;13;28195;Bremen
+Adresse;10.005;53.553;Landtag;Friedensallee;14;20097;Hamburg
+Adresse;10.122;54.323;Landtag;Am Domplatz;15;24103;Kiel
+Adresse;11.411;53.633;Landtag;Goethestraße;16;19053;Schwerin
+POI;8.6821;50.1109;H-da;Hochschule
+POI;7.721;48.267;Freizeitpark;Europa-Park
+POI;10.749;47.557;Schloss;Neuschwanstein
+POI;9.989;53.545;Museum;Miniatur Wunderland
+POI;13.741;51.051;Kirche;Frauenkirche Dresden
+Adresse;13.7373;51.0504;Cyril;elbestr;7;4444;Dresden

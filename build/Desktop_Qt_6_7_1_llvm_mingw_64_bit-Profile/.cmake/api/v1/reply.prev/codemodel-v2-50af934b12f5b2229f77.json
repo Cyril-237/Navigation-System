@@ -1,0 +1,133 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-42c04b26515ada34455a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Gui_Navi",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GuiNaviLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GuiNaviLib-RelWithDebInfo-ef0df4edf243ef38790d.json",
+					"name" : "GuiNaviLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GuiNaviLib_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GuiNaviLib_autogen-RelWithDebInfo-f2b94d7b26f585a5c9a9.json",
+					"name" : "GuiNaviLib_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GuiNaviLib_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GuiNaviLib_autogen_timestamp_deps-RelWithDebInfo-9e2be5d0a15f910d32f1.json",
+					"name" : "GuiNaviLib_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Gui_Navi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Gui_Navi-RelWithDebInfo-57a3060984d2b3553b20.json",
+					"name" : "Gui_Navi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Gui_Navi_Tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Gui_Navi_Tests-RelWithDebInfo-e376e782dcd7fd6c75ab.json",
+					"name" : "Gui_Navi_Tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Gui_Navi_Tests_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Gui_Navi_Tests_autogen-RelWithDebInfo-5cb314e5326e2027b766.json",
+					"name" : "Gui_Navi_Tests_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Gui_Navi_Tests_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Gui_Navi_Tests_autogen_timestamp_deps-RelWithDebInfo-40565f89329a5cb8c503.json",
+					"name" : "Gui_Navi_Tests_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Gui_Navi_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Gui_Navi_autogen-RelWithDebInfo-f76a98c0f63661b1eea0.json",
+					"name" : "Gui_Navi_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Gui_Navi_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Gui_Navi_autogen_timestamp_deps-RelWithDebInfo-909e4888027596fe55cb.json",
+					"name" : "Gui_Navi_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/MediaMarktStartklar/OneDrive/Desktop/PG2/PG2 Praktikum/Praktikum 3/Gui_Navi/build/Desktop_Qt_6_7_1_llvm_mingw_64_bit-Profile",
+		"source" : "C:/Users/MediaMarktStartklar/OneDrive/Desktop/PG2/PG2 Praktikum/Praktikum 3/Gui_Navi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

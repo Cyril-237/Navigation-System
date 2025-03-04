@@ -1,0 +1,32 @@
+Orte
+5;Straße des 17. Juni;Regierungsgebäude;1;Berlin;10117;13.405;52.52;1
+1;Mühlenstraße;Landtag;2;Potsdam;14467;13.065;52.396;5
+2;Maximilianstraße;Staatskanzlei;3;München;80539;11.578;48.137;21
+3;Schlossstraße;Landtag;4;Stuttgart;70174;9.177;48.783;18
+4;Rheinpromenade;Landtag;5;Düsseldorf;40221;6.776;51.227;24
+6;Ernst-Reuter-Platz;Staatskanzlei;6;Hannover;30159;9.738;52.375;22
+7;Domplatz;Staatskanzlei;7;Magdeburg;39104;11.629;52.131;9
+8;Friedrich-Ebert-Straße;Landtag;8;Wiesbaden;65185;8.241;50.078;11
+9;Erfurtstraße;Staatskanzlei;9;Erfurt;99084;11.029;50.978;7
+10;Theaterplatz;Landtag;10;Dresden;1067;13.738;51.051;23
+11;Augustinerstraße;Landtag;11;Mainz;55116;8.268;49.992;8
+12;Saaruferstraße;Staatskanzlei;12;Saarbrücken;66117;6.996;49.233;24
+13;Rathausplatz;Landtag;13;Bremen;28195;8.805;53.079;6
+14;Friedensallee;Landtag;14;Hamburg;20097;10.005;53.553;15
+15;Am Domplatz;Landtag;15;Kiel;24103;10.122;54.323;14
+16;Goethestraße;Landtag;16;Schwerin;19053;11.411;53.633;14
+17;Würzburger Platz;Landtag;17;Würzburg;97070;9.934;49.792;26
+18;Karlsplatz;Landtag;18;Karlsruhe;76133;8.403;49.007;3
+19;Augustinerplatz;Landtag;19;Freiburg;79098;7.852;47.994;18
+20;Ulmer Münsterplatz;Landtag;20;Ulm;89073;9.993;48.401;3
+21;Maximilianstraße;Landtag;21;Augsburg;86150;10.897;48.369;2
+22;Marktplatz;Landtag;22;Kassel;34117;9.478;51.315;6
+23;Neumarkt;Kirche;26;Dresden;1067;13.741;51.051;10
+24;Rheinstrasse;Landtag;27;Koblenz;56068;7.589;50.356;8
+25;Bodanstraße;Landtag;28;Konstanz;78462;9.175;47.663;20
+26;Hauptmarkt;Landtag;29;Nürnberg;90403;11.077;49.454;21
+27;Brückenstraße;Landtag;30;Chemnitz;9111;12.924;50.83;10
+28;Altmarkt;Landtag;31;Cottbus;3046;14.334;51.756;23
+30;elbestr;Cyril;43;Aschaffenburg;63741;9.128;49.978;-1
+Point_of_interest
+0;H-da;Hochschule;8.6512;49.8728;11

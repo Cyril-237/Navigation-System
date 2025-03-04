@@ -1,0 +1,24 @@
+Orte
+5;Straße des 17. Juni;Regierungsgebäude;1;Berlin;10117;13.405;52.52;1
+1;Mühlenstraße;Landtag;2;Potsdam;14467;13.065;52.396;5
+2;Maximilianstraße;Staatskanzlei;3;München;80539;11.578;48.137;8
+3;Schlossstraße;Landtag;4;Stuttgart;70174;9.177;48.783;0
+4;Rheinpromenade;Landtag;5;Düsseldorf;40221;6.776;51.227;18
+10;Ernst-Reuter-Platz;Staatskanzlei;6;Hannover;30159;9.738;52.375;13
+17;Domplatz;Staatskanzlei;7;Magdeburg;39104;11.629;52.131;19
+18;Friedrich-Ebert-Straße;Landtag;8;Wiesbaden;65185;8.241;50.078;11
+19;Erfurtstraße;Staatskanzlei;9;Erfurt;99084;11.029;50.978;17
+20;Theaterplatz;Landtag;10;Dresden;1067;13.738;51.051;9
+11;Augustinerstraße;Landtag;11;Mainz;55116;8.268;49.992;18
+12;Saaruferstraße;Staatskanzlei;12;Saarbrücken;66117;6.996;49.233;6
+13;Rathausplatz;Landtag;13;Bremen;28195;8.805;53.079;10
+14;Friedensallee;Landtag;14;Hamburg;20097;10.005;53.553;7
+15;Am Domplatz;Landtag;15;Kiel;24103;10.122;54.323;14
+16;Goethestraße;Landtag;16;Schwerin;19053;11.411;53.633;14
+21;Elbestr;Cyril;43;Erzhausen;6490;12;55;-1
+Point_of_interest
+0;H-da;Hochschule;8.6512;49.8728;11
+6;Freizeitpark;Europa-Park;7.721;48.267;12
+8;Schloss;Neuschwanstein;10.749;47.557;2
+7;Museum;Miniatur Wunderland;9.989;53.545;14
+9;Kirche;Frauenkirche Dresden;13.741;51.051;20

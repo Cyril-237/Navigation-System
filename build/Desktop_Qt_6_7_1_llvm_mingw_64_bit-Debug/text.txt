@@ -1,0 +1,40 @@
+Orte
+5;Straße des 17. Juni;Regierungsgebäude;1;Berlin;10117;13.405;52.52;Landtag-Potsdam(35.0),Landtag-Cottbus(125.0),Landtag-Hamburg(280.0)
+1;Mühlenstraße;Landtag-Potsdam;2;Potsdam;14467;13.065;52.396;Regierungsgebäude(35.0),Staatskanzlei-Magdeburg(120.0),Landtag-Cottbus(110.0)
+2;Maximilianstraße;Staatskanzlei-München;3;München;80539;11.578;48.137;Landtag-Augsburg(60.0),Landtag-Nürnberg(170.0)
+3;Schlossstraße;Landtag-Stuttgart;4;Stuttgart;70174;9.177;48.783;Landtag-Karlsruhe(80.0),Landtag-Freiburg(130.0),Landtag-Ulm(100.0)
+
+4;Rheinpromenade;Landtag-Duesseldorf;5;Düsseldorf;40221;6.776;51.227;Landtag-Koblenz(110.0),Landtag-Kassel(240.0),Landtag-Würzburg(300.0),Staatskanzlei-Erfurt(340.0),Landtag-Bremen(250.0)
+
+6;Ernst-Reuter-Platz;Staatskanzlei-Hannover;6;Hannover;30159;9.738;52.375;Landtag-Hamburg(150.0),Landtag-Bremen(120.0),Landtag-Kassel(200.0),Staatskanzlei-Magdeburg(210.0),Landtag-Duesseldorf(320.0),Staatskanzlei-Erfurt(220.0),Landtag-Schwerin(230.0)
+7;Domplatz;Staatskanzlei-Magdeburg;7;Magdeburg;39104;11.629;52.131;Landtag-Potsdam(120.0),Landtag-Cottbus(100.0),Staatskanzlei-Erfurt(190.0),Staatskanzlei-Hannover(210.0)
+8;Friedrich-Ebert-Straße;Landtag-Wiesbaden;8;Wiesbaden;65185;8.241;50.078;Landtag-Mainz(15.0),Landtag-Koblenz(90.0),Landtag-Kassel(185.0)
+
+9;Erfurtstraße;Staatskanzlei-Erfurt;9;Erfurt;99084;11.029;50.978;Staatskanzlei-Magdeburg(190.0),Landtag-Kassel(120.0),Landtag-Dresden(200.0),Landtag-Würzburg(220.0),Landtag-Duesseldorf(340.0),Staatskanzlei-Hannover(220.0)
+
+10;Theaterplatz;Landtag-Dresden;10;Dresden;01067;13.738;51.051;Landtag-Cottbus(100.0),Staatskanzlei-Erfurt(200.0),Landtag-Chemnitz(60.0)
+11;Augustinerstraße;Landtag-Mainz;11;Mainz;55116;8.268;49.992;Landtag-Wiesbaden(15.0),Landtag-Koblenz(60.0),Staatskanzlei-Saarbrücken(160.0)
+
+12;Saaruferstraße;Staatskanzlei-Saarbrücken;12;Saarbrücken;66117;6.996;49.233;Landtag-Mainz(160.0),Landtag-Koblenz(130.0),Landtag-Stuttgart(225.0),Landtag-Würzburg(280.0),Landtag-Duesseldorf(210.0),Staatskanzlei-Erfurt(350.0)
+
+13;Rathausplatz;Landtag-Bremen;13;Bremen;28195;8.805;53.079;Landtag-Hamburg(120.0),Staatskanzlei-Hannover(120.0),Landtag-Duesseldorf(250.0)
+14;Friedensallee;Landtag-Hamburg;14;Hamburg;20097;10.005;53.553;Landtag-Bremen(120.0),Landtag-Kiel(90.0),Staatskanzlei-Hannover(150.0)
+15;Am Domplatz;Landtag-Kiel;15;Kiel;24103;10.122;54.323;Landtag-Hamburg(90.0),Landtag-Schwerin(140.0)
+16;Goethestraße;Landtag-Schwerin;16;Schwerin;19053;11.411;53.633;Landtag-Kiel(140.0),Landtag-Hamburg(110.0),Regierungsgebäude(180.0),Staatskanzlei-Hannover(230.0)
+
+17;Würzburger Platz;Landtag-Würzburg;17;Würzburg;97070;9.934;49.792;Landtag-Nürnberg(110.0),Landtag-Kassel(210.0),Landtag-Stuttgart(160.0),Landtag-Duesseldorf(300.0),Staatskanzlei-Erfurt(220.0),Staatskanzlei-Saarbrücken(280.0),Landtag-Koblenz(260.0),Landtag-Ulm(160.0)
+
+18;Karlsplatz;Landtag-Karlsruhe;18;Karlsruhe;76133;8.403;49.007;Landtag-Stuttgart(80.0),Landtag-Freiburg(130.0),Landtag-Wiesbaden(145.0)
+19;Augustinerplatz;Landtag-Freiburg;19;Freiburg;79098;7.852;47.994;Landtag-Karlsruhe(130.0),Landtag-Stuttgart(130.0),Landtag-Konstanz(110.0)
+20;Ulmer Münsterplatz;Landtag-Ulm;20;Ulm;89073;9.993;48.401;Landtag-Stuttgart(100.0),Landtag-Augsburg(80.0),Staatskanzlei-München(150.0),Landtag-Würzburg(160.0)
+21;Maximilianstraße;Landtag-Augsburg;21;Augsburg;86150;10.897;48.369;Staatskanzlei-München(60.0),Landtag-Ulm(80.0),Landtag-Nürnberg(140.0)
+22;Marktplatz;Landtag-Kassel;22;Kassel;34117;9.478;51.315;Staatskanzlei-Hannover(200.0),Staatskanzlei-Erfurt(120.0),Landtag-Würzburg(210.0),Landtag-Koblenz(180.0),Landtag-Duesseldorf(240.0),Landtag-Hamburg(250.0)
+23;Neumarkt;Kirche-Dresden;26;Dresden;01067;13.741;51.051;Landtag-Dresden(2.0),Landtag-Cottbus(95.0)
+24;Rheinstrasse;Landtag-Koblenz;27;Koblenz;56068;7.589;50.356;Landtag-Mainz(60.0),Staatskanzlei-Saarbrücken(130.0),Landtag-Wiesbaden(90.0),Landtag-Kassel(180.0),Landtag-Duesseldorf(110.0),Landtag-Würzburg(260.0)
+25;Bodanstraße;Landtag-Konstanz;28;Konstanz;78462;9.175;47.663;Landtag-Freiburg(110.0),Landtag-Stuttgart(185.0),Landtag-Augsburg(210.0)
+26;Hauptmarkt;Landtag-Nürnberg;29;Nürnberg;90403;11.077;49.454;Landtag-Würzburg(110.0),Staatskanzlei-München(170.0),Landtag-Chemnitz(220.0)
+27;Brückenstraße;Landtag-Chemnitz;30;Chemnitz;09111;12.924;50.83;Landtag-Dresden(60.0),Staatskanzlei-Erfurt(140.0),Landtag-Cottbus(120.0)
+28;Altmarkt;Landtag-Cottbus;31;Cottbus;03046;14.334;51.756;Landtag-Dresden(100.0),Regierungsgebäude(125.0),Landtag-Chemnitz(120.0)
+
+Point_of_interest
+0;H-da;Hochschule;8.6512;49.8728;Landtag-Wiesbaden(45.0),Landtag-Mainz(35.0)
